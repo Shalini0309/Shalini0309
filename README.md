@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **frontend or backend in Web Development**
 
-- 📫 How to reach me **sm**
+- 📫 How to reach me **sm97854616@gmail.com**
 
 - 📄 Know about my experiences [](https://drive.google.com/file/d/1D5tYpSpzFN3fKPzA4fw-Rm69fLZvjM8A/view?usp=drivesdk)
 
