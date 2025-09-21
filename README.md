@@ -7,13 +7,13 @@
 
 
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Frontend Development**
 
 
 
-- 💬 Ask me about **frontend or backend in Web Development**
+- 💬 Ask me about **frontend Web Development**
 
-- 📫 How to reach me **sm97854616@gmail.com**
+- 📫 How to reach me **iam.shhhalini@gmail.com**
 
 - 📄 Know about my experiences [](https://drive.google.com/file/d/1D5tYpSpzFN3fKPzA4fw-Rm69fLZvjM8A/view?usp=drivesdk)
 
