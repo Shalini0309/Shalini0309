@@ -16,7 +16,7 @@
 - 🌱 &nbsp;Deepening my skills in **Frontend Development**
 - 💬 &nbsp;Happy to talk about **HTML, CSS, JavaScript, React, and all things frontend**
 - 📫 &nbsp;Reach me at **iam.shhhalini@gmail.com**
-- 📄 &nbsp;[View my Resume](https://drive.google.com/file/d/1D5tYpSpzFN3fKPzA4fw-Rm69fLZvjM8A/view?usp=drivesdk)
+- 📄 &nbsp;[View my Resume](https://drive.google.com/file/d/1DvCzXosAjP2fFIENSrc5WBg21J97x0W1/view?usp=drivesdk)
 - ⚡ &nbsp;Fun fact: I love turning Figma designs into pixel-perfect UIs!
 
 ---
